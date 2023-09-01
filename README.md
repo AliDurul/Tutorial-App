@@ -1,25 +1,70 @@
-## Welcome to My Project! 👋
 
-Thank you for visiting my projects! I'm thrilled to have you here, and I hope you find it interesting and helpful.
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Tutorial  App</h1></summary>
+  </ul>
+</div>
 
-## About Me
-Firstly, I want to let you know that I am a  learner in the world of programming and development. I'm passionate about exploring different languages and technologies, and this project represents a part of my learning journey. So, please keep in mind that I'm still growing and improving my skills.
+<table>
+   <thead>
+        <tr>
+            <th>What's used in this app ?</th>
+            <th>How to run ?</th>
+            <th>Author</th>
+        </tr>
+    </thead>
+  <tbody>
+  <tr>
+    <td> 
+      <li> Booststrap
+      <li> React
+      <li> Database-Server
+      <li> Javascript
+      <li> Html
+      <li> Css
+    </td>
+    <td>  <h4>Once you clone the project</h4>  
+      
+ 1) run  `pnpm install`  or `yarn install` for node modules
+ 2) run `pnpm start` or `yarn start` for open development stage
+    
+   </td>
+    <td> <li> <a href="https://github.com/AliDurul" target="_blank">Take a look at my other projects</a> <li> <a href="https://www.linkedin.com/in/ali-durul/" target="_blank">Visit me on Linkedin</a> 
+  </tr>
+  <tr>
+    <td colspan="3"><h3>What is this project about ?</h3> 
+<p>
+This project is basically get record from user and save it to database which is linked already in the system. After recording a new tutorial user can edit or delete the tutorial.
+</p>
+    </td>
+  </tr>
+      </tbody>
+</table>
 
-## Check Out My Other Projects 
-If you enjoyed exploring this project, I invite you to check out my other projects as well. I am passionate about programming and have worked on a variety of exciting projects.
 
 
 
-Feel free to explore these projects at your convenience. Each one offers a unique experience and showcases different aspects of my skills and interests.
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2>How does my project look</h2></summary>
+  </ul>
+</div>
 
-## Author
-- Frontend Mentor - [@AliDurul](https://www.frontendmentor.io/profile/DURUL-26)
-- Githup - [@AliDurul](https://github.com/AliDurul)
 
-## Feedback and Collaboration
-I value your feedback and suggestions. If you have any comments, questions, or ideas for improvement regarding this project or any of my other projects, please don't hesitate to reach out. I'm always open to collaboration and welcome the opportunity to work on exciting projects together.
+[Live Link](https://tut0rial-app.vercel.app)
 
-Thank you once again for visiting my project. I hope you have a wonderful experience exploring it, and I look forward to connecting with you soon!
+![tutorialapp](https://github.com/AliDurul/Tutorial-App/assets/80897590/f66a6550-ccca-4373-adc8-6e093b101811)
+
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2>Feedback and Collaboration</h2></summary>
+  </ul>
+</div>
+I value your feedback and suggestions. If you have any comments, questions, or ideas for improvement regarding this project or any of my other projects, please don't hesitate to reach out.<br>
+I'm always open to collaboration and welcome the opportunity to work on exciting projects together.<br>
+Thank you for visiting my project. I hope you have a wonderful experience exploring it, and I look forward to connecting with you soon!
+
 
 
 
