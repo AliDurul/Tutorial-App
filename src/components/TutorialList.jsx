@@ -14,9 +14,9 @@ const [editItem, setEditItem] = useState({
 })
 
   const handleDelete = async (id) => {
-    const base_url = "https://tutorial-api.fullstack.clarusway.com/tutorials/"
+    const base_url = "https://tutorial-api.fullstack.clarusway.com/tutorials"
     try {
-      await axios.delete(`${base_url}/${id}`)
+      await axios.delete(`${base_url}/${id}/`)
     } catch (error) {
       console.log(error);
     }
